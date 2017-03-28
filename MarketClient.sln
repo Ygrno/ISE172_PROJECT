@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketClient", "MarketClien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketClientTest", "MarketClientTest\MarketClientTest.csproj", "{A8C39E49-DE50-4EFD-A248-FE168DD031A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoTrading", "ConsoleApplication1\AlgoTrading.csproj", "{F8A0FCDC-51A6-456E-AF26-EFA690F9D3C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoTrading", "CMD_Interface\AlgoTrading.csproj", "{F8A0FCDC-51A6-456E-AF26-EFA690F9D3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
