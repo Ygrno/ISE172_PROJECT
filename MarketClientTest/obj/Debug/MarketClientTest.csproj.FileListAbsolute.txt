@@ -1,0 +1,11 @@
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\MarketClientTest.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\MarketClientTest.pdb
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\MarketClient.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\MarketClient.pdb
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\obj\Debug\MarketClientTest.csprojResolveAssemblyReference.cache
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\obj\Debug\MarketClientTest.dll
+D:\Documents\אוניבסיטת בן גוריון - הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\פרויקט\marketClient-master (1)\marketClient-master\MarketClientTest\obj\Debug\MarketClientTest.pdb
